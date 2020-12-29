@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+}
+ul li{
+    display: inline-block;
+    padding:10px 50px;
+}
+ul li a{
+    text-decoration:none;
+}
